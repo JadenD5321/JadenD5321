@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JadenD5321
+- 👋 Hi, I’m Jaden Dodoo-Tawiah
 - 👀 I’m interested in Data Science, Artificial intellignece, Machine learning and building ios applications 
 - 🌱 I’m currently learning iOS applications and Python 
 - 💞️ I’m looking to collaborate on ...
