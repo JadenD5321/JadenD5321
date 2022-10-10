@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on different projects with software engineers and participate in many hackathons that would improve my technical knowledge.
 - 📫 How to reach me 
 Email:jadendodoo@gmail.com
+
+
 Linkedln: https://www.linkedin.com/in/jaden-dodoo-tawiah-19866b22b/
 
 <!---
