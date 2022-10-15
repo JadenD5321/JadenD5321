@@ -3,9 +3,11 @@
 - 💞️ I’m looking to collaborate on different projects with software engineers through internship opportunities and hackathons where I can apply my technological skills where I could make a massive impact in society. 
 
 - 📫 How to reach me 
-You can reach out to me through the following contacts 
+Feel Free to reach out to me through the following areas
 
 Email:jadendodoo@gmail.com 
+
+
 Linkedln: https://www.linkedin.com/in/jaden-dodoo-tawiah-19866b22b/
 
 <!---
