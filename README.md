@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on different projects with software engineers through internship opportunities and hackathons where I can apply my technological skills where I could make a massive impact in society. 
 
 - 📫 How to reach me 
-Feel Free to reach out to me through the following areas
+Feel Free to reach out to me through the following platforms
 
 Email:jadendodoo@gmail.com 
 
