@@ -1,11 +1,11 @@
-- 👋 Hi, I’m Jaden Dodoo-Tawiah
-- 👀 I’m interested in Data Science, Artificial intellignece, Machine learning and building ios applications 
-- 🌱 I’m currently learning iOS applications and Python 
-- 💞️ I’m looking to collaborate on different projects with software engineers and looking at internship opportunities where I can part of an individual that can transform and change the evolution of technology. 
+- 👋 Hi, I’m Jaden Dodoo-Tawiah and I am currently an undergradute pursing a degree in Computer Science. 
+- 👀 I’m interested in diving into building more web applications primarly using backend. 
+- 💞️ I’m looking to collaborate on different projects with software engineers through internship opportunities and hackathons where I can apply my technological skills where I could make a massive impact in society. 
 
 - 📫 How to reach me 
-Email:jadendodoo@gmail.com
+You can reach out to me through the following contacts 
 
+Email:jadendodoo@gmail.com 
 Linkedln: https://www.linkedin.com/in/jaden-dodoo-tawiah-19866b22b/
 
 <!---
