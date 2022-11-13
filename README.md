@@ -1,12 +1,11 @@
 - 👋 Hi, I’m Jaden Dodoo-Tawiah and I am currently an undergradute pursing a degree in Computer Science. 
-- 👀 I’m interested in diving into building more web applications and also to learn how to use different technologies.  
+- 👀 I’m interested in diving into building more into learning different technologies that would enrich my skills. Furthermore, I would like to dive into building web(website) applications as well. 
 - 💞️ I’m looking to collaborate on different projects with software engineers through internship opportunities and hackathons where I can apply my  programming skills to build products that could impact our society.
 
 - 📫 How to reach me 
 Feel Free to reach out to me through the following platforms
 
 Email:jadendodoo@gmail.com 
-
 
 Linkedln: https://www.linkedin.com/in/jaden-dodoo-tawiah-19866b22b/
 
