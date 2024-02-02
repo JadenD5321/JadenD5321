@@ -1,4 +1,4 @@
-👋 Greetings, I'm Jaden Dodoo-Tawiah, a dedicated undergraduate pursuing a degree in Computer Science.
+👋 Greetings, I'm Jaden Dodoo-Tawiah, a dedicated individual that wants to pursue a career in the technical field. 
 
 👀 My enthusiasm lies in exploring and mastering diverse technologies to enrich my skill set. 
 
