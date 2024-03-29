@@ -4,10 +4,12 @@
 
 💞️ I'm actively seeking opportunities to collaborate on various projects with fellow engineers, whether through internships, part-time roles, or engaging in hackathons. My goal is to leverage my programming skills to create projects that deliver instant impact within our community.
 
+My goal is to become a full stack developer, and eventually would love to work with companies on their website platform. 
+
 - 📫 How to reach me 
 Feel Free to reach out to me through the following platforms
 
-Email:jadendodoo@gmail.com 
+Email:jadendodoo@gmail.com or jadendodoo275@gmail.com
 
 Linkedln: https://www.linkedin.com/in/jaden-dodoo-tawiah-19866b22b/
 
